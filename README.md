@@ -1,4 +1,4 @@
-# node-authentication-api
+# node-base64-and-passport-authentication-api
 
 ### Pré-requisitos globais:
 `npm i -g nodemon typescript ts-node`
